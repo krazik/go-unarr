@@ -1,3 +1,3 @@
-module github.com/gen2brain/go-unarr
+module github.com/krazik/go-unarr
 
 go 1.19
